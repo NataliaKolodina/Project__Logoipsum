@@ -262,7 +262,7 @@ button {
   padding: 34px 23px 27px 23px;
 }
 
-.product__card h3 {
+.product__card h4 {
   color: #696871;
   text-align: center;
   font-family: DM Sans;
@@ -273,7 +273,7 @@ button {
   margin-bottom: 22px;
 }
 
-.product__card h2 {
+.product__card h3 {
   color: #1D293F;
   text-align: center;
   font-family: DM Sans;
@@ -320,11 +320,11 @@ button {
   box-shadow: 0px 32px 34px 0px rgba(255, 112, 59, 0.32)
 }
 
-.product__card:hover h3 {
+.product__card:hover h4 {
   color: rgba(255, 255, 255, 0.70);
 }
 
-.product__card:hover h2 {
+.product__card:hover h3 {
   color: #FFF;
   line-height: 56px;
 }
